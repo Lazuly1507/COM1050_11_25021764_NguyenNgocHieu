@@ -28,8 +28,8 @@ git commit -m "Nộp bài tuần %WEEK%" || (
   echo Khong co thay doi de commit hoac commit bi loi.
 )
 
-echo Dang push len origin/main...
-git push origin main
+echo Dang push len origin/master...
+git push origin master
 
 echo Hoan tat.
 pause
